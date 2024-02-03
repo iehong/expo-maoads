@@ -1,0 +1,9 @@
+{
+  "platforms": ["apple", "android", "web"],
+  "apple": {
+    "modules": ["ExpoMaoadsModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.maoads.ExpoMaoadsModule"]
+  }
+}
